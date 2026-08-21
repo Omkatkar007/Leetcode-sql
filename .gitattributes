@@ -1,0 +1,4 @@
+*.py linguist-vendored
+*.ipynb linguist-vendored
+
+*.sql linguist-detectable=true
