@@ -2,3 +2,5 @@
 *.ipynb linguist-vendored
 
 *.sql linguist-detectable=true
+
+*.mysql linguist-detectable=true
